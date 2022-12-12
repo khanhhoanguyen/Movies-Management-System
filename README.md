@@ -1,3 +1,3 @@
 # Movies-Management-System
-click this link to see the demo 
-#https://drive.google.com/file/d/1_sSnaQ3Qgs5cCmVJAX_iTm0ddO2joubQ/view?usp=sharing
+click this link and download the file to see the demo 
+https://drive.google.com/file/d/1y3bwY1T40fwrepm_QqJzDhA6vYNLZ0Qe/view?usp=share_link
